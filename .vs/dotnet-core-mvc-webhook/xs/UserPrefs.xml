@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{43921D3F-1468-44B7-B7AD-7CE95327438B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnet-core-mvc-webhook/Startup.cs">
+    <Files>
+      <File FileName="dotnet-core-mvc-webhook/Controllers/HomeController.cs" Line="32" Column="11" />
+      <File FileName="dotnet-core-mvc-webhook/Controllers/WebhookController.cs" Line="17" Column="10" />
+      <File FileName="dotnet-core-mvc-webhook/Startup.cs" Line="50" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnet-core-mvc-webhook" expanded="True">
+            <Node name="dotnet-core-mvc-webhook" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dotnet-core-mvc-webhook PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
