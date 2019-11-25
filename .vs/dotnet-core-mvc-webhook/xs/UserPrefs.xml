@@ -1,20 +1,28 @@
 ﻿<Properties StartupConfiguration="{43921D3F-1468-44B7-B7AD-7CE95327438B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="dotnet-core-mvc-webhook/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnet-core-mvc-webhook/Controllers/WebhookController.cs">
     <Files>
-      <File FileName="dotnet-core-mvc-webhook/Controllers/HomeController.cs" Line="32" Column="11" />
-      <File FileName="dotnet-core-mvc-webhook/Controllers/WebhookController.cs" Line="17" Column="10" />
-      <File FileName="dotnet-core-mvc-webhook/Startup.cs" Line="50" Column="14" />
+      <File FileName="dotnet-core-mvc-webhook/Controllers/HomeController.cs" Line="21" Column="29" />
+      <File FileName="dotnet-core-mvc-webhook/Controllers/WebhookController.cs" Line="49" Column="1" />
+      <File FileName="dotnet-core-mvc-webhook/Startup.cs" Line="53" Column="72" />
+      <File FileName="dotnet-core-mvc-webhook/Controllers/SecureWebhookController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dotnet-core-mvc-webhook" expanded="True">
             <Node name="dotnet-core-mvc-webhook" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="WebhookController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
